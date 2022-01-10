@@ -1,4 +1,4 @@
-# th2 act template (3.5.0)
+# th2 act template (3.5.0) MDR
 
 ## Overview
 
