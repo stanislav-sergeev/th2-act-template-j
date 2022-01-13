@@ -125,6 +125,7 @@ public class ActHandler extends ActImplBase {
         }
     }
 
+    @Override
     public void marketdatarequest(PlaceMessageRequest request, StreamObserver<PlaceMessageResponse> responseObserver) {
         try {
             if (LOGGER.isDebugEnabled()) {
